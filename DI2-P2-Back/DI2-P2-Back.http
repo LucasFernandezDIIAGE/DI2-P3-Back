@@ -1,0 +1,6 @@
+@DI2_P2_Back_HostAddress = http://localhost:5022
+
+GET {{DI2_P2_Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
