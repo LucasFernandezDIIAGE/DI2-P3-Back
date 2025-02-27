@@ -46,5 +46,16 @@ namespace Business.Services
                 Type = application.Type,
             });
         }
+
+        public async Task<ApplicationDTO> GetApplicationById(int id)
+        {
+            var application = await _applicationRepository.GetApplicationById(id);
+            return new ApplicationDTO
+            {
+                Id = application.Id,
+                Name = application.Name,
+                Type = application.Type,
+            };
+        }
     }
 }

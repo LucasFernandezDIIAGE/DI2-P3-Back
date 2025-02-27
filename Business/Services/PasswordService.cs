@@ -27,6 +27,8 @@ namespace Business.Services
             {
                 Id = password.Id,
                 EncryptedValue = password.EncryptedValue,
+                AccountName = password.AccountName,
+                ApplicationId = password.ApplicationId
             });
         }
 
@@ -34,7 +36,9 @@ namespace Business.Services
         {
             Password password = new Password
             {
-                EncryptedValue = passwordDto.EncryptedValue
+                AccountName = passwordDto.AccountName,
+                EncryptedValue = passwordDto.EncryptedValue,
+                ApplicationId = passwordDto.ApplicationId
             };
 
             var addedPassword = await _passwordRepository.CreatePassword(password);
@@ -43,6 +47,8 @@ namespace Business.Services
             {
                 Id = addedPassword.Id,
                 EncryptedValue = addedPassword.EncryptedValue,
+                AccountName = addedPassword.AccountName,
+                ApplicationId = addedPassword.ApplicationId
             };
         }
 
@@ -70,6 +76,18 @@ namespace Business.Services
 
                 return encryptionStrategy.Encrypt(password, publicKey);
             }
+        }
+
+        public async Task<IEnumerable<PasswordDTO>> GetPasswordsByApplicationId(int applicationId)
+        {
+            var passwords = await _passwordRepository.GetPasswordsByApplicationId(applicationId);
+            return passwords.Select(password => new PasswordDTO
+            {
+                Id = password.Id,
+                EncryptedValue = password.EncryptedValue,
+                AccountName = password.AccountName,
+                ApplicationId = password.ApplicationId
+            });
         }
     }
 }

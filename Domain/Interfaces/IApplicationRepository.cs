@@ -11,5 +11,6 @@ namespace Domain.Interfaces
     {
         Task<IEnumerable<Application>> GetAllApplications();
         Task<Application> CreateApplication(Application application);
+        Task<Application> GetApplicationById(int id);
     }
 }

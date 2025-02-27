@@ -13,5 +13,6 @@ namespace Business.Services
         Task<PasswordDTO> CreatePassword(PasswordDTO passwordDto);
         Task<bool> DeletePassword(int id);
         string EncryptPassword(string password, int encryptionType);
+        Task<IEnumerable<PasswordDTO>> GetPasswordsByApplicationId(int applicationId);
     }
 }

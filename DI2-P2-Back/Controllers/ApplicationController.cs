@@ -27,6 +27,13 @@ namespace DI2_P2_Back.Controllers
             return Ok(applicationsDto);
         }
 
+        [HttpGet("applications/{id}")]
+        public async Task<ActionResult<Application>> GetApplicationById(int id)
+        {
+            var applicationDto = await _applicationService.GetApplicationById(id);
+            return Ok(applicationDto);
+        }
+
 
         [HttpPost("applications")]
         public async Task<ActionResult<Application>> CreateApplication(ApplicationDTO applicationDto)

@@ -15,7 +15,9 @@ namespace Domain.Entities
         public int Id { get; set; }
         public string EncryptedValue { get; set; } = string.Empty; // Chiffré en AES ou RSA
 
-        public ICollection<ApplicationPassword> ApplicationPasswords { get; set; } = new List<ApplicationPassword>();
+        public int ApplicationId { get; set; }
+
+        public string AccountName { get; set; } = string.Empty;
 
     }
 }

@@ -46,6 +46,32 @@
     ]
   },
   {
+    "ContainingType": "DI2_P2_Back.Controllers.ApplicationController",
+    "Method": "GetApplicationById",
+    "RelativePath": "api/applications/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Entities.Application",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "DI2_P2_Back.Controllers.PasswordController",
     "Method": "GetPasswords",
     "RelativePath": "api/passwords",

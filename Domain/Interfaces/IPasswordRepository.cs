@@ -12,6 +12,7 @@ namespace Domain.Interfaces
         Task<IEnumerable<Password>> GetAllPasswords();
         Task<Password> CreatePassword(Password password);
         Task DeletePassword(int id);
+        Task<IEnumerable<Password>> GetPasswordsByApplicationId(int applicationId);
 
     }
 }

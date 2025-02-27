@@ -89,6 +89,46 @@
         }
       }
     },
+    "/api/applications/{id}": {
+      "get": {
+        "tags": [
+          "Application"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Application"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Application"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Application"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/passwords": {
       "get": {
         "tags": [
@@ -269,10 +309,10 @@
           "type": {
             "$ref": "#/components/schemas/ApplicationType"
           },
-          "applicationPasswords": {
+          "passwords": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/ApplicationPassword"
+              "$ref": "#/components/schemas/Password"
             },
             "nullable": true
           }
@@ -296,26 +336,6 @@
         },
         "additionalProperties": false
       },
-      "ApplicationPassword": {
-        "type": "object",
-        "properties": {
-          "applicationId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "application": {
-            "$ref": "#/components/schemas/Application"
-          },
-          "passwordId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "password": {
-            "$ref": "#/components/schemas/Password"
-          }
-        },
-        "additionalProperties": false
-      },
       "ApplicationType": {
         "enum": [
           0,
@@ -335,11 +355,12 @@
             "type": "string",
             "nullable": true
           },
-          "applicationPasswords": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/ApplicationPassword"
-            },
+          "applicationId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "accountName": {
+            "type": "string",
             "nullable": true
           }
         },
@@ -355,6 +376,14 @@
           "encryptedValue": {
             "type": "string",
             "nullable": true
+          },
+          "accountName": {
+            "type": "string",
+            "nullable": true
+          },
+          "applicationId": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false

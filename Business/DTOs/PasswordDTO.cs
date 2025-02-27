@@ -10,5 +10,7 @@ namespace Business.DTOs
     {
         public int Id { get; set; }
         public string EncryptedValue { get; set; }
+        public string AccountName { get; set; }
+        public int ApplicationId { get; set; }
     }
 }

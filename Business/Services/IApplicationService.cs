@@ -11,5 +11,6 @@ namespace Business.Services
     {
         Task<IEnumerable<ApplicationDTO>> GetAllApplications();
         Task<ApplicationDTO> CreateApplication(ApplicationDTO applicationDto);
+        Task<ApplicationDTO> GetApplicationById(int id);
     }
 }

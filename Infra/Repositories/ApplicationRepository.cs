@@ -30,5 +30,10 @@ namespace Infra.Repositories
         {
             return await _context.Applications.ToListAsync();
         }
+
+        public async Task<Application> GetApplicationById(int id)
+        {
+            return await _context.Applications.FindAsync(id);
+        }
     }
 }

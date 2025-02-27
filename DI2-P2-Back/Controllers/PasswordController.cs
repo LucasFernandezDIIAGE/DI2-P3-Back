@@ -38,6 +38,13 @@ namespace DI2_P2_Back.Controllers
             return Ok(addedPassword);
         }
 
+        [HttpGet("passwords/{applicationId}")]
+        public async Task<ActionResult<IEnumerable<Password>>> GetPasswordsByApplicationId(int applicationId)
+        {
+            var passwordsDto = await _passwordService.GetPasswordsByApplicationId(applicationId);
+            return Ok(passwordsDto);
+        }
+
         [HttpDelete("passwords/{id}")]
         public async Task<ActionResult<Password>> DeletePassword(int id)
         {

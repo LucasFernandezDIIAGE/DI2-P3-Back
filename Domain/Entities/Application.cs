@@ -17,6 +17,6 @@ namespace Domain.Entities
 
         public ApplicationType Type { get; set; }
 
-        public ICollection<ApplicationPassword> ApplicationPasswords { get; set; } = new List<ApplicationPassword>();
+        public ICollection<Password> Passwords { get; set; } = new List<Password>();
     }
 }

@@ -43,5 +43,10 @@ namespace Infra.Repositories
         {
             return await _context.Passwords.ToListAsync();
         }
+
+        public async Task<IEnumerable<Password>> GetPasswordsByApplicationId(int applicationId)
+        {
+            return await _context.Passwords.Where(p => p.ApplicationId == applicationId).ToListAsync();
+        }
     }
 }

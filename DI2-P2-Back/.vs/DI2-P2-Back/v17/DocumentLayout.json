@@ -1,83 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\DI2-P2-Back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10588E60-2759-4F92-AEA9-533B11473B94}|..\\Domain\\Domain.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\domain\\entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE31721-5A54-4F79-BB56-07A9792615D5}|..\\Infra\\Infra.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\infra\\repositories\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\di2-p2-back\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\di2-p2-back\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|solutionrelative:controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\di2-p2-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\business\\services\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CE31721-5A54-4F79-BB56-07A9792615D5}|..\\Infra\\Infra.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\infra\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\business\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\di2-p2-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{10588E60-2759-4F92-AEA9-533B11473B94}|..\\Domain\\Domain.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\domain\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE31721-5A54-4F79-BB56-07A9792615D5}|..\\Infra\\Infra.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\infra\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\business\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\business\\dtos\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\di2-p2-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\di2-p2-back\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|solutionrelative:middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE31721-5A54-4F79-BB56-07A9792615D5}|..\\Infra\\Infra.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\infra\\repositories\\passwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\di2-p2-back\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{033C914B-4C04-440B-A7AF-504F673DCA0D}|DI2-P2-Back.csproj|solutionrelative:controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\services\\encryption\\aesencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\services\\encryption\\rsaencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\services\\encryption\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\services\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\services\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE31721-5A54-4F79-BB56-07A9792615D5}|..\\Infra\\Infra.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\infra\\repositories\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\dtos\\applicationpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\dtos\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFACF14F-5E9C-4964-ACBC-14C8989C493A}|..\\Business\\Business.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\business\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10588E60-2759-4F92-AEA9-533B11473B94}|..\\Domain\\Domain.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\domain\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10588E60-2759-4F92-AEA9-533B11473B94}|..\\Domain\\Domain.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\domain\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10588E60-2759-4F92-AEA9-533B11473B94}|..\\Domain\\Domain.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\domain\\interfaces\\ipasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10588E60-2759-4F92-AEA9-533B11473B94}|..\\Domain\\Domain.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\domain\\entities\\applicationpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10588E60-2759-4F92-AEA9-533B11473B94}|..\\Domain\\Domain.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\evaluation-di2-p3-back\\domain\\entities\\applicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10588E60-2759-4F92-AEA9-533B11473B94}|..\\Domain\\Domain.csproj|c:\\users\\lucas\\documents\\diiage\\d2\\di2-p3-back\\domain\\entities\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,315 +50,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:02:31.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-26T17:01:57.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApiKeyMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\Middleware\\ApiKeyMiddleware.cs",
-              "RelativeDocumentMoniker": "Middleware\\ApiKeyMiddleware.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\Middleware\\ApiKeyMiddleware.cs",
-              "RelativeToolTip": "Middleware\\ApiKeyMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:01:10.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PasswordController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\Controllers\\PasswordController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PasswordController.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\Controllers\\PasswordController.cs",
-              "RelativeToolTip": "Controllers\\PasswordController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:58:49.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ApplicationController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\Controllers\\ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\DI2-P2-Back\\Controllers\\ApplicationController.cs",
               "RelativeDocumentMoniker": "Controllers\\ApplicationController.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\DI2-P2-Back\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\DI2-P2-Back\\Controllers\\ApplicationController.cs",
               "RelativeToolTip": "Controllers\\ApplicationController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAzwB8AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:58:38.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RSAEncryptionService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\Encryption\\RSAEncryptionService.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Services\\Encryption\\RSAEncryptionService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\Encryption\\RSAEncryptionService.cs",
-              "RelativeToolTip": "..\\Business\\Services\\Encryption\\RSAEncryptionService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:57:01.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IEncryptionService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\Encryption\\IEncryptionService.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Services\\Encryption\\IEncryptionService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\Encryption\\IEncryptionService.cs",
-              "RelativeToolTip": "..\\Business\\Services\\Encryption\\IEncryptionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:56:37.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AESEncryptionStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\Encryption\\AESEncryptionStrategy.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Services\\Encryption\\AESEncryptionStrategy.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\Encryption\\AESEncryptionStrategy.cs",
-              "RelativeToolTip": "..\\Business\\Services\\Encryption\\AESEncryptionStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:55:46.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPasswordService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\IPasswordService.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Services\\IPasswordService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\IPasswordService.cs",
-              "RelativeToolTip": "..\\Business\\Services\\IPasswordService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:54:03.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\IApplicationService.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Services\\IApplicationService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\IApplicationService.cs",
-              "RelativeToolTip": "..\\Business\\Services\\IApplicationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:53:50.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PasswordService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\PasswordService.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Services\\PasswordService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\PasswordService.cs",
-              "RelativeToolTip": "..\\Business\\Services\\PasswordService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:53:38.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\ApplicationService.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Services\\ApplicationService.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\Services\\ApplicationService.cs",
-              "RelativeToolTip": "..\\Business\\Services\\ApplicationService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwBoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:53:26.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApplicationPasswordDTO.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\DTOs\\ApplicationPasswordDTO.cs",
-              "RelativeDocumentMoniker": "..\\Business\\DTOs\\ApplicationPasswordDTO.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\DTOs\\ApplicationPasswordDTO.cs",
-              "RelativeToolTip": "..\\Business\\DTOs\\ApplicationPasswordDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:51:19.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PasswordDTO.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\DTOs\\PasswordDTO.cs",
-              "RelativeDocumentMoniker": "..\\Business\\DTOs\\PasswordDTO.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\DTOs\\PasswordDTO.cs",
-              "RelativeToolTip": "..\\Business\\DTOs\\PasswordDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:51:04.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ApplicationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\DTOs\\ApplicationDTO.cs",
-              "RelativeDocumentMoniker": "..\\Business\\DTOs\\ApplicationDTO.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Business\\DTOs\\ApplicationDTO.cs",
-              "RelativeToolTip": "..\\Business\\DTOs\\ApplicationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:50:50.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Infra\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Infra\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Infra\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\Infra\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:48:30.864Z",
+              "WhenOpened": "2025-02-27T07:45:44.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PasswordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Infra\\Repositories\\PasswordRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infra\\Repositories\\PasswordRepository.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Infra\\Repositories\\PasswordRepository.cs",
-              "RelativeToolTip": "..\\Infra\\Repositories\\PasswordRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADwvysAAAAyAAAAAAAAAA==",
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Business\\Services\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Services\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Business\\Services\\IApplicationService.cs",
+              "RelativeToolTip": "..\\Business\\Services\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:43:58.059Z",
+              "WhenOpened": "2025-02-27T07:45:23.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApplicationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Infra\\Repositories\\ApplicationRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infra\\Repositories\\ApplicationRepository.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Infra\\Repositories\\ApplicationRepository.cs",
-              "RelativeToolTip": "..\\Infra\\Repositories\\ApplicationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Business\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Services\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Business\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "..\\Business\\Services\\ApplicationService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:43:39.489Z",
+              "WhenOpened": "2025-02-27T07:44:59.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IPasswordRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Interfaces\\IPasswordRepository.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IPasswordRepository.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Interfaces\\IPasswordRepository.cs",
-              "RelativeToolTip": "..\\Domain\\Interfaces\\IPasswordRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:42:20.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "IApplicationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Interfaces\\IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Domain\\Interfaces\\IApplicationRepository.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IApplicationRepository.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Interfaces\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Domain\\Interfaces\\IApplicationRepository.cs",
               "RelativeToolTip": "..\\Domain\\Interfaces\\IApplicationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:42:03.459Z",
+              "WhenOpened": "2025-02-27T07:44:24.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Application.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Entities\\Application.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Application.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Entities\\Application.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\Application.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Infra\\Repositories\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infra\\Repositories\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Infra\\Repositories\\ApplicationRepository.cs",
+              "RelativeToolTip": "..\\Infra\\Repositories\\ApplicationRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:40:36.71Z",
+              "WhenOpened": "2025-02-27T07:37:46.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ApplicationPassword.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Entities\\ApplicationPassword.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\ApplicationPassword.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Entities\\ApplicationPassword.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\ApplicationPassword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:40:33.074Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\DI2-P2-Back\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\DI2-P2-Back\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T00:39:47.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ApplicationType.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Entities\\ApplicationType.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\ApplicationType.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Entities\\ApplicationType.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\ApplicationType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "PasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Business\\DTOs\\PasswordDTO.cs",
+              "RelativeDocumentMoniker": "..\\Business\\DTOs\\PasswordDTO.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Business\\DTOs\\PasswordDTO.cs",
+              "RelativeToolTip": "..\\Business\\DTOs\\PasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:40:26.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T23:48:05.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Business\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Business\\Services\\PasswordService.cs",
+              "RelativeToolTip": "..\\Business\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:47:54.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Infra\\Repositories\\PasswordRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infra\\Repositories\\PasswordRepository.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Infra\\Repositories\\PasswordRepository.cs",
+              "RelativeToolTip": "..\\Infra\\Repositories\\PasswordRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:47:26.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Password.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Entities\\Password.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Domain\\Entities\\Password.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Entities\\Password.cs",
-              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\evaluation-DI2-P3-Back\\Domain\\Entities\\Password.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\DIIAGE\\D2\\DI2-P3-Back\\Domain\\Entities\\Password.cs",
               "RelativeToolTip": "..\\Domain\\Entities\\Password.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBEAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T16:40:18.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T23:44:53.724Z"
             }
           ]
         }
